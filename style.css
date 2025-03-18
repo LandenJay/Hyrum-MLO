@@ -317,7 +317,7 @@ navbar {
         width: auto;
         
         }
-        .testimonials ul li{
+        .testimonials ul li img{
             display: inline-flex;
             flex-direction: row;
             align-items: center;
